@@ -25,6 +25,8 @@ description: >-
   developer portal at this time.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/atkore
   - type: Website
     url: https://www.atkore.com/
   - type: Investors
