@@ -25,6 +25,8 @@ description: >-
   developer portal at this time.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/atkore-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/atkore
   - type: Website
